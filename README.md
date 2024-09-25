@@ -1,4 +1,4 @@
-# Short-Term Load Forecasting using Neural Networks
+# Short-Term Load Forecasting Using Artificial Neural Networks
 This repository contains the code for my Bachelor's thesis project on Short-Term Load Forecasting (STLF) using Artificial Neural Networks (ANNs). The project was supervised by [Prof. Seyed Hossein Hosseinian](https://scholar.google.com/citations?user=j0kjquUAAAAJ&hl=en) and completed at [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en). It focuses on predicting short-term electricity demand by leveraging time series data and various machine learning techniques, including Convolutional Neural Networks (CNNs), Long Short-Term Memory Networks (LSTMs), and Gated Recurrent Units (GRUs).
 
 ## Project Overview
